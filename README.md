@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # pts_kasiraj
 
 A new Flutter project.
@@ -15,6 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
-# pts_final_project
->>>>>>> e66e6b709fa4b6cd96e7e72af00ab786c722dbba
+
+# final_project_pts
+693fccec3890e4517d2cd84955b4f388e7959948
